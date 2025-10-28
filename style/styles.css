@@ -1,0 +1,15 @@
+body {
+      margin: 0;
+      height: 100vh;
+      background-color: aquamarine;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .caja {
+      background-color: black;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0 5px 10px rgba(0,0,0,0.3);
+    }
